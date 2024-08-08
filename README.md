@@ -6,7 +6,7 @@
 
 ## Build instruction ##
 
-- Clone this repo.
+- Clone this repo, https://github.com/ActianCorp/wine_elf_patcher.git
 - cd to repo
 - Download https://github.com/lief-project/LIEF/releases/download/0.15.1/LIEF-0.15.1-Linux-x86_64.tar.gz
 - Extract it via 'tar -xvzf'
