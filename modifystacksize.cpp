@@ -1,3 +1,7 @@
+//
+//	Copyright(c) 2024 Actian Corporation
+//	All rights reserved.
+//
 
 #include <iostream>
 //#include <unistd.h>
